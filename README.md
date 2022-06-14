@@ -1,2 +1,2 @@
 # RA-Work
-Just do some log with ra work
+Just log my RA work.
