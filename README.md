@@ -14,4 +14,7 @@ Download & unzip the dataset [Geolife](http://research.microsoft.com/en-us/downl
 python preprocess.py
 ```
 ### Current Job
-debug with [`simplifier.py`](simplifier.py), [`geometry.py`](geometry.py) and [`poly.py`](poly.py)  with one simple 2-dimnentional trajectory data.
+
+Mainly work in batch-rlts part.
+
+Debug with [`simplifier.py`](simplifier.py), [`geometry.py`](geometry.py) and [`poly.py`](poly.py)  with one simple 2-dimnentional trajectory data.
